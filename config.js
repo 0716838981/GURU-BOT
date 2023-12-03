@@ -8,14 +8,14 @@ import axios from 'axios'
 
 global.owner = [
   ['254716838981', 'Phillo⚡️', true],
-  ['12104605375', 'Ash', true], 
+  ['12104605375', '~ 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['917605902011','32460248586'] 
-global.prems = ['917605902011', '32460248586', '919398758484']
+global.mods = ['254716838981']
+global.prems = ['254716838981']
 global.allowed = ['null']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -52,11 +52,11 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = 'Phillo┃ᴮᴼᵀ' 
+global.author = '@Philo⚡️' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/its_.philipk?igshid=MzNlNGNkZWQ4Mg==\n' 
+global.dygp = 'https://chat.whatsapp.com/BwF2Um4OesAKshQChSgy2P
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
